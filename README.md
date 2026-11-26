@@ -1,16 +1,16 @@
- Hi, I'm Danyal Khan 👋
+# Hi, I'm Danyal Khan 👋
 
- Backend Developer | Node.js • Java • JavaScript
+### Backend Developer | Node.js • Java • JavaScript
 
 I'm a Software Engineering student at Iqra University, Islamabad, focused on backend and web development. I'm currently strengthening my Node.js skills through my 100 Days of Node.js journey.
 
-Open to internships, junior roles and freelance projects.
+**Open to internships, junior roles and freelance projects.**
 
- 🛠️ Skills
-- Backend: Node.js, REST APIs, server-side development
-- Languages: Java, JavaScript
-- Web: HTML, CSS
-- Core CS: OOP, Data Structures & Algorithms
+## 🛠️ Skills
+- **Backend:** Node.js, REST APIs, server-side development
+- **Languages:** Java, JavaScript
+- **Web:** HTML, CSS
+- **Core CS:** OOP, Data Structures & Algorithms
 
 ## 🚀 Projects
 - **[100 Days of Node.js](https://github.com/danyalkhan49/100-Days-of-Node.js)**: daily practice and backend projects
