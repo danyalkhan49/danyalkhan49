@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hi, I'm Danyal Khan 👋
 
-<!--
-**danyalkhan49/danyalkhan49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Backend Developer | Node.js • Java • JavaScript
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at Iqra University, Islamabad, focused on backend and web development. I'm currently strengthening my Node.js skills through my 100 Days of Node.js journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to internships, junior roles and freelance projects.
+
+ 🛠️ Skills
+- Backend: Node.js, REST APIs, server-side development
+- Languages: Java, JavaScript
+- Web: HTML, CSS
+- Core CS: OOP, Data Structures & Algorithms
+
+ 🚀 Projects
+- **[100 Days of Node.js](https://github.com/danyalkhan49/100-Days-of-Node.js): daily practice and backend projects
+- **Hotel Management System** (Java, OOP): room bookings, customer records and hotel operations
+- **Buy & Sell Mobile App**: a marketplace app with a simple, user-friendly interface
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/danyal-khan-5547a0224)
+- [Email](mailto:daniyalkhaniii49@gmail.com)
