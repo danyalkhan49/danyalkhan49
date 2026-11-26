@@ -12,10 +12,8 @@ Open to internships, junior roles and freelance projects.
 - Web: HTML, CSS
 - Core CS: OOP, Data Structures & Algorithms
 
- 🚀 Projects
-- **[100 Days of Node.js](https://github.com/danyalkhan49/100-Days-of-Node.js): daily practice and backend projects
-- **Hotel Management System** (Java, OOP): room bookings, customer records and hotel operations
-- **Buy & Sell Mobile App**: a marketplace app with a simple, user-friendly interface
+## 🚀 Projects
+- **[100 Days of Node.js](https://github.com/danyalkhan49/100-Days-of-Node.js)**: daily practice and backend projects
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/danyal-khan-5547a0224)
